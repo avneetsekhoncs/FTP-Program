@@ -1,4 +1,4 @@
-# FTP-Program
+# File-Transfer-Program
 A file transfer program which can transfer files back and forth from a remote web sever.
 
 Base code guide from:
